@@ -38,6 +38,16 @@ function About() {
                     minus, laudantium fugit cupiditate optio ullam error 
                     iure iusto assumenda consequuntur animi voluptates?
                 </p>
+                <p className='text-xl'>
+                    Lorem, ipsum dolor sit amet consectetur 
+                    adipisicing elit. Ducimus cupiditate eveniet 
+                    provident dolores vitae ad amet repudiandae 
+                    illum consequuntur magni? Repellendus unde quod 
+                    autem doloremque nihil dignissimos eos vel pariatur 
+                    ut, culpa eligendi delectus. Voluptas minima quia 
+                    minus, laudantium fugit cupiditate optio ullam error 
+                    iure iusto assumenda consequuntur animi voluptates?
+                </p>
 
             </div>
         </div>
