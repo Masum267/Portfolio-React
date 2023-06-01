@@ -14,7 +14,7 @@ function SocialLinks() {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https//linkedin.com',
+            href: 'https://www.linkedin.com/in/abdullah-al-masum-750a37251/',
             style: 'rounded-tr-md',
         },
         {
@@ -24,7 +24,7 @@ function SocialLinks() {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https//github.com'
+            href: 'https://github.com/Masum267'
         },
         {
             id: 3,
