@@ -16,7 +16,10 @@ function Home() {
 
           <div className="flex flex-col justify-center h-full">
 
-            <h2 className="text-4xl sm:text-7xl font-bold text-slate-100">
+            <h2 className="text-xl sm:text-5xl font-bold text-slate-100">
+              I'm Md. Abdullah Al Masum
+            </h2>
+            <h2 className="text-sm sm:text-xl font-bold text-slate-100">
               I'm a Frontend Developer
             </h2>
             <p className="text-slate-400 py-4 max-w-md">
