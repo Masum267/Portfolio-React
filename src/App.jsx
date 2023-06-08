@@ -6,7 +6,6 @@ import About from './pages/About'
 import Portfolio from './pages/Portfolio'
 import Experience from './pages/Experience'
 import Contact from './pages/Contact'
-import Footer from './pages/Footer'
 import NavBar from './pages/navBar'
 
 function App() {
@@ -21,8 +20,6 @@ function App() {
       <Contact />
 
       <SocialLinks />
-      
-      <Footer />
     </div>
   )
 }
