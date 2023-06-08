@@ -7,7 +7,6 @@ import Portfolio from './pages/Portfolio'
 import Experience from './pages/Experience'
 import Contact from './pages/Contact'
 import NavBar from './pages/navBar'
-import Footer from './pages/Footer'
 
 function App() {
 
@@ -19,7 +18,6 @@ function App() {
       <Portfolio />
       <Experience />
       <Contact />
-      <Footer />
 
       <SocialLinks />
     </div>
